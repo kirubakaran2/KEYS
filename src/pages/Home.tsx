@@ -375,7 +375,7 @@ const Home = () => {
               transition={{ duration: 0.6 }}
               className="text-4xl font-bold text-gray-900 mb-4"
             >
-              Client Success Stories
+              Voices of Our Clients
             </motion.h2>
             <motion.div
               initial={{ opacity: 0, scale: 0 }}
