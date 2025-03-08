@@ -14,7 +14,7 @@ const Testimonials = () => {
       name: 'Sarah Johnson',
       role: 'Business Owner',
       image: 'https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&q=80',
-      content: 'Keys FinServe has been instrumental in helping me plan for retirement while managing my business finances. Their expertise and personalized approach have given me peace of mind.',
+      content: 'Keys FinTech has been instrumental in helping me plan for retirement while managing my business finances. Their expertise and personalized approach have given me peace of mind.',
       rating: 5,
     },
     {
